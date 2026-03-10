@@ -1,0 +1,10 @@
+
+__pycache__/
+*.pyc
+*.csv
+*.xlsx
+X_train.csv
+X_test.csv
+y_train.csv
+y_test.csv
+creditcard.csv
